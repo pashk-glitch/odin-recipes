@@ -1,1 +1,1 @@
-# odin-recipes
+A very simple project (three recipes) made with only html.
